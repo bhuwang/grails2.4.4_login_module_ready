@@ -161,7 +161,7 @@ Thank you !<br/>
 Application Team
 '''
 grails.plugin.springsecurity.ui.forgotPassword.emailFrom = 'inv.lasoul@gmail.com'
-grails.plugin.springsecurity.ui.forgotPassword.emailSubject = 'Password Reset'
+grails.plugin.springsecurity.ui.forgotPassword.emailSubject = 'Reset your password'
 grails.plugin.springsecurity.controllerAnnotations.staticRules = [
 	'/':                ['permitAll'],
 	'/index':           ['permitAll'],
