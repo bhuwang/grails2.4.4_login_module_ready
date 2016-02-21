@@ -17,6 +17,11 @@
 /stacktrace.log
 /test/reports
 /logs
+*.classpath
+*.project
+*.settings*
+*wrapper*
+target-eclipse*
 
 # project release file
 /*.war
